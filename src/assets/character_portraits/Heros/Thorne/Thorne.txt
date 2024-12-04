@@ -1,0 +1,27 @@
+Name: Thorne
+Class: Archer
+
+Physical Description:
+  Age: Mid-30s
+  Height: 6'2"
+  Build: Athletic with broad shoulders and lean physique
+  Hair: Short brown hair often worn in braids
+  Eyes: Warm golden brown
+  Face: Strong features with small scar above left eyebrow
+  Skin: Tanned and weathered from outdoor life
+  Style: Practical leather armor and carrying bow and quiver
+
+Personality:
+  Connected to nature and animals
+  Patient and observant, preferring to wait and strike
+  Has deep respect for land and creatures
+  Can come across as aloof to those unfamiliar with wilderness
+  Loyal to his people and the natural world
+
+Starting Stats:
+  Health: 115
+  Mana: 65
+  Stamina: 75
+  Speed: 50
+  Attack: 16
+  Defense: 11

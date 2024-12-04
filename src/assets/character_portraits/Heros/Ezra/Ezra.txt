@@ -1,0 +1,27 @@
+Name: Ezra
+Class: Sage
+
+Physical Description:
+  Age: Late 40s/early 50s
+  Height: 5'10"
+  Build: Slightly overweight but comfortable in his own skin
+  Hair: Thinning gray hair combed over balding spot
+  Eyes: Wise brown eyes behind spectacles
+  Face: Round with jowls and warm smile
+  Skin: Weathered but still youthful-looking
+  Style: Comfortable robes with numerous pockets for books and scrolls
+
+Personality:
+  Warm and welcoming demeanor despite age
+  Brilliant mind with vast knowledge across many subjects
+  Patient teacher who breaks down complex ideas
+  Can be absent-minded professor type
+  Values wisdom and understanding above all else
+
+Starting Stats:
+  Health: 80
+  Mana: 105
+  Stamina: 50
+  Speed: 38
+  Attack: 21
+  Defense: 7

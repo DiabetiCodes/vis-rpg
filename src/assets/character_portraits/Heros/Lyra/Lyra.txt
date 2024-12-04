@@ -1,0 +1,27 @@
+Name: Lyra
+Class: Archaeologist
+
+Physical Description:
+  Age: Late 20s
+  Height: 5'8"
+  Build: Athletic but lean
+  Hair: Dark brown, shoulder-length with loose waves
+  Eyes: Bright green, almond-shaped
+  Face: Heart-shaped with high cheekbones and small nose
+  Skin: Olive-toned with light freckles
+  Style: Practical clothing suitable for excavation work, often wears gloves and goggles
+
+Personality:
+  Curious and analytical mind
+  Passionate about uncovering secrets of the past
+  Resourceful and quick-thinking in tight spots
+  Can come across as slightly absent-minded due to focus on research
+  Loyal to friends and colleagues
+
+Starting Stats:
+  Health: 100
+  Mana: 80
+  Stamina: 60
+  Speed: 40
+  Attack: 15
+  Defense: 10
