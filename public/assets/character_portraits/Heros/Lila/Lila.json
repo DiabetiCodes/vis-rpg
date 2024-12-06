@@ -1,0 +1,24 @@
+{
+	"name": "Lila",
+	"class": "Bard",
+	"age": 25,
+	"height": "5'6\"",
+	"startingStats": {
+		"health": 95,
+		"mana": 95,
+		"stamina": 60,
+		"speed": 42,
+		"attack": 19,
+		"defense": 9
+	},
+	"personality": {
+		"description": "Lila is a Bard with long dark brown hair tied back in a ponytail. She has piercing green eyes and a tanned skin. She wears a simple tunic and leather boots.",
+		"traits": [
+			"Charismatic and outgoing",
+			"Loves to make people laugh",
+			"Can be very dramatic at times",
+			"Loyal to her friends",
+			"Can be quite stubborn"
+		]
+	}
+}

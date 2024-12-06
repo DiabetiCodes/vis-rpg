@@ -1,0 +1,24 @@
+{
+	"name": "Kael",
+	"class": "Knight",
+	"age": 30,
+	"height": "6'0\"",
+	"startingStats": {
+		"health": 100,
+		"mana": 80,
+		"stamina": 60,
+		"speed": 28,
+		"attack": 25,
+		"defense": 10
+	},
+	"personality": {
+		"description": "Kael is a Knight with short dark blond hair and a rugged build. He has piercing blue eyes and a scarred face. He wears practical armor and a leather jacket.",
+		"traits": [
+			"Confident and assertive leader type",
+			"Loyal only to those he considers friends",
+			"Has a dry sense of humor and can be sarcastic",
+			"Highly skilled fighter but not without flaws",
+			"Haunted by past mistakes"
+		]
+	}
+}

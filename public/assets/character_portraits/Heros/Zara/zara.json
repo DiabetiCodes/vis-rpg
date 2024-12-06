@@ -1,0 +1,24 @@
+{
+	"name": "Zara",
+	"class": "Alchemist",
+	"age": 24,
+	"height": "5'5\"",
+	"startingStats": {
+		"health": 90,
+		"mana": 100,
+		"stamina": 55,
+		"speed": 35,
+		"attack": 18,
+		"defense": 8
+	},
+	"personality": {
+		"description": "Zara is an Alchemist with wild red curls often tied back. She has bright hazel eyes and a round face with smattering of freckles across nose. She wears goggles and often covered in stains.",
+		"traits": [
+			"Energetic and enthusiastic about her work",
+			"Brilliant mind but can be scatterbrained",
+			"Loves experimenting with new potions and reactions",
+			"Can be reckless at times due to impatience",
+			"Has a soft spot for injured creatures"
+		]
+	}
+}

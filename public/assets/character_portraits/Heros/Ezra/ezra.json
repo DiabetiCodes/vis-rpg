@@ -1,0 +1,24 @@
+{
+	"name": "Ezra",
+	"class": "Sage",
+	"age": 53,
+	"height": "5'10\"",
+	"startingStats": {
+		"health": 80,
+		"mana": 105,
+		"stamina": 50,
+		"speed": 38,
+		"attack": 21,
+		"defense": 7
+	},
+	"personality": {
+		"description": "Ezra is a Sage with thinning gray hair combed over balding spot. He has wise brown eyes behind spectacles and a warm smile. He wears comfortable robes with numerous pockets for books and scrolls.",
+		"traits": [
+			"Warm and welcoming demeanor despite age",
+			"Brilliant mind with vast knowledge across many subjects",
+			"Patient teacher who breaks down complex ideas",
+			"Can be absent-minded professor type",
+			"Values wisdom and understanding above all else"
+		]
+	}
+}

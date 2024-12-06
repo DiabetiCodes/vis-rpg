@@ -1,0 +1,24 @@
+{
+	"name": "Thorne",
+	"class": "Archer",
+	"age": 29,
+	"height": "5'11\"",
+	"startingStats": {
+		"health": 115,
+		"mana": 50,
+		"stamina": 75,
+		"speed": 50,
+		"attack": 22,
+		"defense": 12
+	},
+	"personality": {
+		"description": "Thorne is an Archer with short dark brown hair and a lean build. He has piercing blue eyes and a tanned skin. He wears practical armor and a leather jacket.",
+		"traits": [
+			"Quick and agile",
+			"Loves to hunt and explore",
+			"Can be quite stubborn",
+			"Loyal to his friends",
+			"Has a strong sense of justice"
+		]
+	}
+}

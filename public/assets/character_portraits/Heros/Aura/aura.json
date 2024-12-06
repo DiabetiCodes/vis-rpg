@@ -1,0 +1,24 @@
+{
+	"name": "Aura",
+	"class": "Mage",
+	"age": 22,
+	"height": "5'9\"",
+	"startingStats": {
+		"health": 85,
+		"mana": 110,
+		"stamina": 45,
+		"speed": 30,
+		"attack": 22,
+		"defense": 6
+	},
+	"personality": {
+		"description": "Aura is a Mage with long silver-white hair often worn in elegant updo. She has piercing purple eyes and a pale skin with subtle shimmer. She wears elegant robes in shades of blue and white.",
+		"traits": [
+			"Calm and collected",
+			"Can seem cocky because of her confidence in arcane abilities",
+			"Passionate about understanding arcane forces",
+			"Can be detached from physical world concerns",
+			"Hides deep feelings behind reserve"
+		]
+	}
+}

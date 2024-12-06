@@ -1,0 +1,24 @@
+{
+	"name": "Lyra",
+	"class": "Archaeologist",
+	"age": 27,
+	"height": "5'8\"",
+	"startingStats": {
+		"health": 100,
+		"mana": 80,
+		"stamina": 50,
+		"speed": 35,
+		"attack": 15,
+		"defense": 10
+	},
+	"personality": {
+		"description": "Lyra is an Archaeologist with long dark brown hair tied back in a ponytail. She has piercing green eyes and a tanned skin. She wears a simple tunic and leather boots.",
+		"traits": [
+			"Curious and adventurous",
+			"Loves to explore new places",
+			"Can be quite stubborn",
+			"Loyal to her friends",
+			"Has a strong sense of justice"
+		]
+	}
+}
